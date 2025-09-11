@@ -266,7 +266,7 @@
   inline-size: 100%;
 }
 
-@media (width <=376px) {
+@media (width < 376px) {
   .container-size {
     inline-size: inherit;
   }
