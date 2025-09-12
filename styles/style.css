@@ -135,8 +135,8 @@
 
 .card__label {
   position: absolute;
-  top: 23px;
-  right: 11px;
+  top: 25px;
+  right: 25px;
   opacity: 0.5;
   font-family: var(--accent-font), fantasy;
   font-size: 14px;
@@ -279,11 +279,6 @@
 @media (min-width: 1440px) {
   .card__title {
     padding: 5px 10px 4px;
-  }
-
-  .card__label {
-    top: 25px;
-    right: 25px;
   }
 
   .button-save__content {
