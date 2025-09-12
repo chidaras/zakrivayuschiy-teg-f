@@ -268,7 +268,7 @@
 
 @media (width < 376px) {
   .container-size {
-    inline-size: inherit;
+    inline-size: 100%;
   }
 
   .card__image-wrapper {
